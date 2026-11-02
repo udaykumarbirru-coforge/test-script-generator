@@ -1,9 +1,0 @@
-{
-  "enabled": true,
-  "report_root": "reports/executions",
-  "screenshot_on_pass": true,
-  "screenshot_on_fail": true,
-  "full_page_screenshots": false,
-  "mask_sensitive_inputs": true,
-  "report_title": "M2A Extent Execution Report"
-}
